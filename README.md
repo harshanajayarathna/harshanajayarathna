@@ -3,9 +3,8 @@
 This is Harshana, full-stack developer originally from Sri Lanka and currely living in Palmerston North, New Zealand.
 
 ## Tools used to code
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
-![alt text](https://github.com/[username]/[reponame]/blob/main/assets/php.png?raw=true)
+![alt text](https://github.com/harshanajayarathna/harshanajayarathna/blob/main/assets/php.png)
 
 
 
