@@ -5,7 +5,7 @@ This is Harshana, full-stack developer originally from Sri Lanka and currently l
 ## Languages and Tools
 
 <!-- ![alt text](https://github.com/harshanajayarathna/harshanajayarathna/blob/main/assets/php.png) -->
-<img src="https://github.com/harshanajayarathna/harshanajayarathna/blob/main/assets/php.png" width="36" />
+<img src="https://github.com/harshanajayarathna/harshanajayarathna/blob/main/assets/php.png" width="64" />
 
 
 
