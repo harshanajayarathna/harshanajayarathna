@@ -1,6 +1,6 @@
 # :wave: Hi There 
 
-This is Harshana, full-stack developer originally from New Zealand.
+This is Harshana, full-stack developer from New Zealand.
 
 ## Languages and Tools
 
