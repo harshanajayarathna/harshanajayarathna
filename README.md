@@ -5,7 +5,7 @@ This is Harshana, full-stack developer from New Zealand.
 ## Languages and Tools
 
 <!-- ![alt text](https://github.com/harshanajayarathna/harshanajayarathna/blob/main/assets/php.png) -->
-<img src="https://github.com/harshanajayarathna/harshanajayarathna/blob/main/assets/php.png" width="64" />
+<img src="https://github.com/harshanajayarathna/harshanajayarathna/blob/main/assets/php.png" width="125" />
 
 
 
