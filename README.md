@@ -1,6 +1,6 @@
 # :wave: Hi There 
 
-This is Harshana, full-stack developer originally from Sri Lanka and currently living in Palmerston North, New Zealand.
+This is Harshana, full-stack developer originally from New Zealand.
 
 ## Languages and Tools
 
