@@ -6,7 +6,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I'm a fullstack developer with 7 years of experience.
+💡 &nbsp;I'm a fullstack developer with 7 years of hands on experience. I've contributed my skills & knowledge over 17 projects which are using in Australia, New Zealand & Sri Lanka.
 <!--🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
@@ -17,39 +17,49 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=Windows&logoColor=#0078D6)&nbsp;
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu&logoColor=#E95420)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=Windows)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu)
 
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=#1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
+![XAMPP](https://img.shields.io/badge/-XAMPP-05122A?style=flat&logo=xampp)
+<!--![WAMP](https://img.shields.io/badge/-WAMP-05122A?style=flat&logo=wamp)-->
 
-![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel&logoColor=##FF2D20)
-![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-05122A?style=flat&logo=codeIgniter&logoColor=#EF4223)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
 
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=##FF2D20)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=##FF2D20)
-![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-05122A?style=flat&logo=microsoftsqlserver&logoColor=FF2D20)
+![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)
+![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-05122A?style=flat&logo=codeIgniter)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)
+![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=wordpress)
+<!--![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=wordpress)-->
 
-![XML](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=##FF2D20)
-![YAML](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=##FF2D20)
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
+![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-05122A?style=flat&logo=microsoftsqlserver)
+![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)
 
-![Composer](https://img.shields.io/badge/-Composer-05122A?style=flat&logo=laravel&logoColor=#FF2D20)
-![NPM](https://img.shields.io/badge/-npm-05122A?style=flat&logo=npm&logoColor=#CB3837)
-![YARN](https://img.shields.io/badge/-Yarn-05122A?style=flat&logo=yarn&logoColor=#2C8EBB)
+![XML](https://img.shields.io/badge/-XML-05122A?style=flat&logo=xml)
+![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json)
+![YAML](https://img.shields.io/badge/-YAML-05122A?style=flat&logo=yaml)
 
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Svn](https://img.shields.io/badge/-Svn-05122A?style=flat&logo=svn)&nbsp;
+![Composer](https://img.shields.io/badge/-Composer-05122A?style=flat&logo=laravel)
+![NPM](https://img.shields.io/badge/-npm-05122A?style=flat&logo=npm)
+![YARN](https://img.shields.io/badge/-Yarn-05122A?style=flat&logo=yarn)
 
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code)
+![Apache NetBeans IDE](https://img.shields.io/badge/-Apache%20NetBeans%20IDE-05122A?style=flat&logo=apachenetbeanside)
+![PhpStorm](https://img.shields.io/badge/-PhpStorm-05122A?style=flat&logo=phpstorm)
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Apache NetBeans IDE](https://img.shields.io/badge/-Apache%20NetBeans%20IDE-05122A?style=flat&logo=apachenetbeanside&logoColor=1B6AC6)&nbsp;
-![PhpStorm](https://img.shields.io/badge/-PhpStorm-05122A?style=flat&logo=phpstorm)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+![SVN](https://img.shields.io/badge/-SVN-05122A?style=flat&logo=svn)
 
-
+![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-05122A?style=flat&logo=amazonawsl)
+![cPanel](https://img.shields.io/badge/-cPanel-05122A?style=flat&logo=cpanel)
+![Plesk](https://img.shields.io/badge/-Plesk-05122A?style=flat&logo=plesk)
 
 
 ### ⚙️ &nbsp;GitHub Analytics
