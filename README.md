@@ -8,7 +8,7 @@
 
 💡 &nbsp;I'm a fullstack developer with 7 years of hands on experience. 
 <!--🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\ -->
-🌱 &nbsp;I've contributed my skills & knowledge over 17 projects which are using in Australia, New Zealand & Sri Lanka..\
+🌱 &nbsp;I've contributed my skills & knowledge over 17 projects. <!--which are using in Australia, New Zealand & Sri Lanka.-->
 ✍️ &nbsp;Currently, I'm learning React & Vue.\
 <!--💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
