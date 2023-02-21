@@ -30,6 +30,8 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jquery)
+![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jquery)
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
 
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)
@@ -63,6 +65,8 @@
 ![cPanel](https://img.shields.io/badge/-cPanel-05122A?style=flat&logo=cpanel)
 ![Plesk](https://img.shields.io/badge/-Plesk-05122A?style=flat&logo=plesk)
 
+![Trello](https://img.shields.io/badge/-Trello-05122A?style=flat&logo=trello)
+![Slack](https://img.shields.io/badge/-Slack-05122A?style=flat&logo=slack)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
