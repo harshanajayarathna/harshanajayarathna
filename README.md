@@ -31,7 +31,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jquery)
-!--![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jquery)-->
+<!--![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jquery)-->
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
 
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)
