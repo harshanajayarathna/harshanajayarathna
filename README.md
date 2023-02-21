@@ -65,8 +65,8 @@
 ![cPanel](https://img.shields.io/badge/-cPanel-05122A?style=flat&logo=cpanel)
 ![Plesk](https://img.shields.io/badge/-Plesk-05122A?style=flat&logo=plesk)
 
-![Trello](https://img.shields.io/badge/-Trello-05122A?style=flat&logo=trello)
-![Slack](https://img.shields.io/badge/-Slack-05122A?style=flat&logo=slack)
+![Trello](https://img.shields.io/badge/-Trello-05122A?style=flat&logo=trello&logoColor=#0052CC)
+![Slack](https://img.shields.io/badge/-Slack-05122A?style=flat&logo=slack&logoColor=#4A154B)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
