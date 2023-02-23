@@ -67,6 +67,7 @@
 
 ![Trello](https://img.shields.io/badge/-Trello-05122A?style=flat&logo=trello&logoColor=#0052CC)
 ![Slack](https://img.shields.io/badge/-Slack-05122A?style=flat&logo=slack&logoColor=#4A154B)
+![Microsoft Teams](https://img.shields.io/badge/-Microsoft%20Teams-05122A?style=flat&logo=microsoftteams)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
