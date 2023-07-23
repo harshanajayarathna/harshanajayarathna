@@ -33,6 +33,7 @@
 ![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jquery)
 <!--![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jquery)-->
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
+![Canva](https://img.shields.io/badge/-Canva-05122A?style=flat&logo=canva)
 
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)
 ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-05122A?style=flat&logo=codeIgniter)
