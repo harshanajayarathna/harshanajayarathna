@@ -39,7 +39,7 @@
 ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-05122A?style=flat&logo=codeIgniter)
 ![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=wordpress)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)
-![VueJs](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 <!--![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=wordpress)-->
 
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
