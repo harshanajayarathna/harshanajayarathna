@@ -10,7 +10,7 @@
 <!--🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\ -->
 🌱 &nbsp;I've contributed my skills & knowledge over 17 projects. 
 <!--which are using in Australia, New Zealand & Sri Lanka.-->
-✍️ &nbsp;Currently, I'm learning React & Vue.
+✍️ &nbsp;Currently, I'm learning React.
 <!--💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions! -->
@@ -37,8 +37,9 @@
 
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)
 ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-05122A?style=flat&logo=codeIgniter)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)
 ![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=wordpress)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)
+![VueJs](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue)
 <!--![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=wordpress)-->
 
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
