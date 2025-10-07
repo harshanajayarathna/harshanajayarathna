@@ -6,7 +6,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I'm a fullstack developer with 7 years of hands on experience. 
+💡 &nbsp;I'm a fullstack developer with 10 years of hands on experience. 
 <!--🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\ -->
 🌱 &nbsp;I've contributed my skills & knowledge over 17 projects. 
 <!--which are using in Australia, New Zealand & Sri Lanka.-->
